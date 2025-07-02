@@ -1,3 +1,10 @@
+123
+456
+789
+
+
+
+
 module "rg" {
   source      = "../module/rg"
   rg_name     = "kunj_rg3"
